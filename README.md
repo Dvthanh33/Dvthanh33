@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/7QF7B2J.png" width="100%"/>
 
 <h1 align="center">👋 Hi, I'm Đỗ Văn Thành</h1>
-<h3 align="center">💻 Developer | AI - IoT - Mobile | Việt Nam</h3>
+<h3 align="center">💻 Developer | AI - IoT - Mobile |</h3>
 
 ---
 
