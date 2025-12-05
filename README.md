@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Đỗ Văn Thành</h1>
+<h1 align="center">👋 Hi, I'm Do Van Thanh</h1>
 <h3 align="center">💻 Developer | AI - IoT - Mobile |</h3>
 
 ---
