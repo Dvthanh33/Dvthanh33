@@ -1,8 +1,3 @@
-<!-- BANNER (Ảnh thật 100%) -->
-<p align="center">
-  <img src="https://i.imgur.com/1Zc7F9Y.png" width="100%" />
-</p>
-
 <h1 align="center">👋 Hi, I'm Do Van Thanh</h1>
 <h3 align="center">💻 Developer | AI - IoT - Mobile |</h3>
 
@@ -55,8 +50,6 @@
 ---
 
 # 🐍 Snake Animation (Auto)
-**Bạn cần bật workflow để nó hoạt động.**  
-Tạm thời dùng ảnh demo (không lỗi):
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
