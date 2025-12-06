@@ -1,13 +1,19 @@
+<!-- BANNER AI -->
+<p align="center">
+  <img src="https://i.imgur.com/8fFMFfS.png" width="100%" />
+</p>
+
 <h1 align="center">👋 Hi, I'm Do Van Thanh</h1>
-<h3 align="center">💻 Developer | AI - IoT - Mobile |</h3>
+<h3 align="center">Developer • AI Enthusiast • IoT • Mobile • Deep Learning</h3>
 
 ---
 
 ## 🚀 About Me
-- 🎓 Student & Developer passionate about **AI, IoT, Mobile & Backend**
-- 🔥 Love learning **ML, CV, Deep Learning**
-- 🌱 Currently exploring **NLP – Embedded AI**
-- 🎯 Goal: Become a **Full-stack AI Engineer**
+- 🔥 Endless passion for **AI, Machine Learning & Computer Vision**
+- 🤖 Exploring **Neural Networks, Model Optimization, Embedded AI**
+- 📱 Experienced with **Mobile Development (Android – Kotlin)**
+- 🌐 Love building **Web & Backend** systems
+- 🎯 Goal: Become a **Full-Stack AI Engineer**
 
 ---
 
@@ -21,16 +27,30 @@
 
 ---
 
-# 💻 Tech Stack
+# 🌐 🔹 Tech Stack
 <p align="center">
-  
-<img src="https://skillicons.dev/icons?i=c,cpp,css,html,java,js,python,php,kotlin,react,nodejs,bootstrap,firebase,mysql,sqlite,androidstudio,arduino,raspberrypi,tensorflow,pytorch,sklearn,django,anaconda,git,github&theme=dark"/>
-
+<img src="https://skillicons.dev/icons?i=c,cpp,css,html,java,js,python,php,kotlin,react,nodejs,bootstrap,firebase,mysql,sqlite,androidstudio,arduino,raspberrypi,tensorflow,pytorch,sklearn,django,anaconda,git,github&theme=dark" />
 </p>
 
 ---
 
-# 🏆 GitHub Profile Trophy
+# 💠 AI • Tech Divider
+<p align="center">
+  <img src="https://i.imgur.com/WgXW7R6.gif" width="600px"/>
+</p>
+
+---
+
+# 🧠 AI Vision Showcase
+<p align="center">
+  <img src="https://i.imgur.com/6XKjzsM.gif" width="80%">
+</p>
+
+> **"Artificial Intelligence is not the future — it's the present."**
+
+---
+
+# 🔥 GitHub Trophy
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Dvthanh33&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
 </p>
@@ -49,31 +69,22 @@
 
 ---
 
-# 🐍 Snake Animation (Auto)
-
+# 🐍 Snake Animation (Commit Activity)
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-## ✍️ Random Dev Quote
+# ✍️ Random Developer Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
 
 ---
 
-## 😂 Random Dev Meme
+# 🧬 AI & Future Tech Banner
 <p align="center">
-  <img src="https://random.responsiveimages.io/random?size=600x400" width="480px"/>
+  <img src="https://i.imgur.com/YEOrV4v.jpeg" width="100%"/>
 </p>
 
----
-
-## 📈 Visitor Count
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Dvthanh33&icon=0&color=0" />
-</p>
-
----
