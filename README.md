@@ -1,10 +1,10 @@
 <h1 align="center">👋 Hi, I'm Do Van Thanh</h1>
-<h3 align="center">💻 Developer | AI - IoT - Mobile |</h3>
+<h3 align="center">💻 Developer | AI - IoT |</h3>
 
 ---
 
 ## 🚀 About Me
-- 🎓 Student & Developer passionate about **AI, IoT, Mobile & Backend**
+- 🎓 Student & Developer passionate about **AI, IoT, Backend**
 - 🔥 Love learning **ML, CV, Deep Learning**
 - 🌱 Currently exploring **NLP – Embedded AI**
 - 🎯 Goal: Become a **Full-stack AI Engineer**
