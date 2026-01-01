@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Do Van Thanh</h1>
-<h3 align="center">💻 Developer | AI - IoT |</h3>
+<h3 align="center">💻 Developer Web- AI - IoT </h3>
 
 ---
 
