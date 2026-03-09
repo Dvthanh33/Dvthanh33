@@ -5,7 +5,6 @@
 
 ## 🚀 About Me
 - 🎓 Student & Developer passionate about **AI, IoT, Backend**
-- 🔥 Love learning **ML, CV, Deep Learning**
 - 🌱 Currently exploring **NLP – Embedded AI**
 - 🎯 Goal: Become a **Full-stack AI Engineer**
 
