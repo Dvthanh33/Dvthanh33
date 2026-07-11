@@ -1,10 +1,10 @@
-<h1 align="center">👋 Hi, I'm Do Van Thanh</h1>
+<h1 align="center">👋 Hi, I'm DO VAN THANH</h1>
 <h3 align="center">💻 Developer Web- AI - IoT </h3>
 
 ---
 
 ## 🚀 About Me
-- 🎓 Student & Developer passionate about **AI, IoT, Backend**
+- 🎓 Developer passionate about **AI, IoT, Backend**
 - 🌱 Currently exploring **NLP – Embedded AI**
 - 🎯 Goal: Become a **Full-stack AI Engineer**
 
@@ -15,7 +15,7 @@
 <a href="https://www.facebook.com/othanh.299436"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" /></a>
 <a href="https://www.instagram.com/_iam.dthanh_/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/%C4%91%E1%BB%97-v%C4%83n-th%C3%A0nh-011947248/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
-<a href="https://www.tiktok.com/@dothanh_1234"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" /></a>
+<a href="https://www.tiktok.com/@dothanh_1234"><img src="" /></a>
 </p>
 
 ---
