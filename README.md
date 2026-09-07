@@ -1,7 +1,7 @@
 <h1 align="center">HI 👋, I'M DO VAN THANH</h1>
 
 <h3 align="center">
-Embedded Software Engineer | AI Engineer | Computer Vision
+Embedded Software Engineer | AI Engineer 
 </h3>
 
 <p align="center">
